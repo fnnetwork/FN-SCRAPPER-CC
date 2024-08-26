@@ -9,7 +9,7 @@ api_id = '28811010'  # Replace with your api id
 api_hash = 'a3e25d59b01f888528aa4c6d32d3c71a'  # Replace with your api hash
 phone_number = '+15734346840'  # Replace with your phone number
 
-client = TelegramClient('black_scrapper', api_id, api_hash)
+client = TelegramClient('BlackHeadscc', api_id, api_hash)
 
 BIN_API_URL = 'https://bins.antipublic.cc/bins/{}'
 
