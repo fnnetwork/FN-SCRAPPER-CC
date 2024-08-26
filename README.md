@@ -16,7 +16,7 @@ This Telegram bot is designed to scrape messages from different groups or channe
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/AnukarOP/BlackScrapper
+https://github.com/fnnetwork/FN-SCRAPPER-CC
 cd BlackScrapper
 ```
 
@@ -49,11 +49,3 @@ python3 main.py &
 This bot is meant for educational purposes only. The use of this bot for illegal activities such as unauthorized access to information or credit card fraud is strictly prohibited. The authors do not take any responsibility for any misuse of this bot.
 
 ## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-<p align="center">
-  <a href="https://github.com/AnukarOP" target="_blank">
-    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by-AnukarOP-%23FF0000.svg" alt="Made with love by AnukarOP"/>
-  </a>
-</p>
